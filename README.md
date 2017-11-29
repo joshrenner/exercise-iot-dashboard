@@ -1,11 +1,14 @@
-#Overview
+# Overview
+
 The intent of this assignment is gauge your general level of coding proficiency as well as your ability to think through the design of a web application. 
 
 Feel free to make assumptions regarding anything that isn’t clear. This exercise doesn’t have a single right answer. The important part is to be able to explain the rationale behind your decisions. Also, the intent behind the assignment is not to make you design and implement every single detail and corner case but rather to help us understand your level of comprehension and your thought process when making design choices. The assignment shouldn’t take you more than a few hours.
 
 Provide documentation for the assignment as necessary, and be prepared to walk us through your application during your interview.
 
-#Requirements
+
+# Requirements
+
 Design and implement a web application that collects local weather data from a simulated IoT device via a REST API. The web application should save the data in a database and display it in an interactive visualization. Assume the IoT device reports the device ID, timestamp, temperature, and humidity. Assume new data is available every 60 seconds.
 
 The following is an example data set from the IoT device:
